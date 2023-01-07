@@ -17,7 +17,7 @@
       ]
     },
     {
-      "type": 2,
+      "type": 1,
       "title": "Registry (cache)",
       "description": "Docker image registry configured as a DockerHub pull through cache",
       "categories": ["docker"],
